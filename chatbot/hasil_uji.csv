@@ -1,0 +1,4 @@
+No,Pertanyaan,Jawaban Chatbot,Jawaban Diharapkan,Hasil
+1,jam buka?,untuk jam buka mulai dari pukul 18.00 - 21.00,untuk jam buka mulai dari pukul 18.00 - 21.00,TRUE
+2,berapa jam buka,untuk jam buka mulai dari pukul 18.00 - 21.00,untuk jam buka mulai dari pukul 18.00 - 21.00,TRUE
+3,bayar lewat apa?,"Untuk pembayaran bisa lewat DANA, BRIMO, dan OVO. ",kami menerima pembayaran tunai dan transfer,FALSE

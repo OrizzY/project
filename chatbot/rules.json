@@ -1,0 +1,32 @@
+{
+  "sapaan": [
+    {
+      "pattern": "halo",
+      "response": "Halo, Ada yang bisa saya bantu?"
+    },
+    {
+      "pattern": "hai",
+      "response": "Hai, Ada yang bisa saya bantu?"
+    },
+    {
+      "pattern": "assalamualaikum",
+      "response": "Waalaikum salam, Ada yang bisa saya bantu?"
+    },
+    {
+      "pattern": "bro",
+      "response": "Oi, ada yang bisa di bantu nih bro?"
+    }
+  ],
+  "jam_buka": [
+    {
+      "pattern": "buka jam berapa?",
+      "response": "untuk jam buka mulai dari pukul 18.00 - 21.00"
+    }
+  ],
+  "bayar": [
+    {
+      "pattern": "pembayaran bisa lewat apa?",
+      "response": "Untuk pembayaran bisa lewat DANA, BRIMO, dan OVO. "
+    }
+  ]
+}
