@@ -1,0 +1,41 @@
+No,Pertanyaan,Jawaban Target,Jawaban Chatbot,Score,Hasil
+1,Apakah bisa order satuan?,"Maaf tidak bisa, minimal order 12 pcs","Maaf tidak bisa, minimal order 12 pcs",0.9414,TRUE
+2,Buka jam berapa?,Senin-Sabtu jam 08.00 WIB-16.00 WIB,Senin-Sabtu jam 08.00 WIB-16.00 WIB,1.0,TRUE
+3,Apa bahan seragam olahraga yang bagus?,"Drivet sangat cocok karena ringan, elastis, cepat kering, dan breathable.","Drivet sangat cocok karena ringan, elastis, cepat kering, dan breathable.",0.9654,TRUE
+4,Apa bahan yang bagus untuk sweater dan hoodie?,"Bahan Fleece karena hangat, tebal, dan nyaman dipakai.","Bahan Fleece karena hangat, tebal, dan nyaman dipakai.",0.9705,TRUE
+5,Minimal order berapa ya kak?,Minimal 12 pcs ya kak,Minimal 12 pcs ya kak,0.9574,TRUE
+6,"Kalau belum punya desain, apakah bisa dibikinin?","Bisa kak, silahkan buat coretan/gambaran desainnya, nanti kita desainkan.","Bisa kak, silahkan buat coretan/gambaran desainnya, nanti kita desainkan.",1.0,TRUE
+7,Apakah harus DP dulu sebelum produksi?,"Iya kak, minimal DP 30-50%","Iya kak, minimal DP 30-50%",1.0,TRUE
+8,Berapa harga kaos Cotton Combed 30s?,"Mulai Rp45.000 – Rp70.000, sudah termasuk desain + sablon.","Mulai Rp45.000 – Rp70.000, sudah termasuk desain + sablon.",0.9664,TRUE
+9,Berapa harga kaos Cotton Combed 24s?,"Mulai Rp50.000 – Rp75.000, sudah termasuk desain + sablon.","Mulai Rp50.000 – Rp75.000, sudah termasuk desain + sablon.",0.9664,TRUE
+10,Bahan mana yang cocok untuk kaos komunitas?,Cotton Combed 30s dan 24s.,Cotton Combed 30s dan 24s.,0.9495,TRUE
+11,Berapa harga kaos bahan Baby Terry?,Kaos: Rp70.000 – Rp90.000 Set kaos + celana: Rp130.000 – Rp160.000 Sudah termasuk desain + sablon.,Kaos: Rp70.000 – Rp90.000 Set kaos + celana: Rp130.000 – Rp160.000 Sudah termasuk desain + sablon.,0.9153,TRUE
+12,Bahan apa yang cocok untuk kaos polo?,Lacoste Cotton.,Lacoste Cotton.,0.9619,TRUE
+13,Berapa harga kaos polo Lacoste?,Mulai Rp70.000 – Rp90.000 (include sablon/bordir).,Mulai Rp70.000 – Rp90.000 (include sablon/bordir).,0.9354,TRUE
+14,Bahan apa untuk sweater dan hoodie?,Menggunakan bahan Fleece.,Menggunakan bahan Fleece.,0.9619,TRUE
+15,Berapa harga jaket?,"Mulai Rp90.000 – Rp140.000, sudah termasuk desain + sablon/bordir.","Mulai Rp90.000 – Rp140.000, sudah termasuk desain + sablon/bordir.",0.901,TRUE
+16,Apa bahan untuk PDH/PDL?,Menggunakan Drill (American Drill / Japan Drill).,Menggunakan Drill (American Drill / Japan Drill).,0.9482,TRUE
+17,Berapa harga PDH/PDL?,"Mulai Rp120.000 – Rp140.000, include sablon/bordir.","Mulai Rp120.000 – Rp140.000, include sablon/bordir.",0.9292,TRUE
+18,Apa saja bahan untuk seragam olahraga?,"Hyget, KH/PE, Diadora, dan Drivet.","Hyget, KH/PE, Diadora, dan Drivet.",0.9805,TRUE
+19,Berapa harga seragam olahraga TK/PAUD?,Mulai Rp40.000 – Rp60.000 (set kaos + celana).,Mulai Rp40.000 – Rp60.000 (set kaos + celana).,0.9254,TRUE
+20,Berapa harga seragam olahraga MI/SD?,Mulai Rp60.000 – Rp80.000.,Mulai Rp60.000 – Rp80.000.,0.9254,TRUE
+21,Berapa harga seragam olahraga SMP/MTS?,Mulai Rp60.000 – Rp80.000.,Mulai Rp60.000 – Rp80.000.,0.9254,TRUE
+22,Berapa harga seragam olahraga SMA/SMK?,Mulai Rp80.000 – Rp120.000.,Mulai Rp80.000 – Rp120.000.,0.9254,TRUE
+23,Berapa biaya sablon rubber?,Rp8.000 – Rp20.000 per area.,Rp8.000 – Rp20.000 per area.,0.9789,TRUE
+24,Berapa biaya sablon DTF?,Rp5.000 – Rp25.000 per area.,Rp5.000 – Rp25.000 per area.,0.9789,TRUE
+25,Berapa biaya sablon plastisol?,Rp15.000 – Rp30.000 per area.,Rp15.000 – Rp30.000 per area.,0.9789,TRUE
+26,Berapa biaya bordir komputer?,Rp10.000 – Rp50.000 tergantung ukuran desain.,Rp10.000 – Rp50.000 tergantung ukuran desain.,0.9801,TRUE
+27,Berapa lama estimasi pengerjaan order 12–50 pcs?,"Sekitar 3–10 hari. tergantung juga antrian banyaknya order, untuk lebih pastinya silahkan hubungi admin","Sekitar 3–10 hari. tergantung juga antrian banyaknya order, untuk lebih pastinya silahkan hubungi admin",0.9715,TRUE
+28,Berapa lama pengerjaan order 50–200 pcs?,"Sekitar 10–20 hari. tergantung juga antrian banyaknya order, untuk lebih pastinya silahkan hubungi admin","Sekitar 10–20 hari. tergantung juga antrian banyaknya order, untuk lebih pastinya silahkan hubungi admin",0.9737,TRUE
+29,Berapa lama pengerjaan order 200+ pcs?,"Sekitar 20–40 hari. tergantung juga banyaknya antrian order, untuk lebih pastinya siilahkan hubungi admin","Sekitar 20–40 hari. tergantung juga banyaknya antrian order, untuk lebih pastinya siilahkan hubungi admin",0.9737,TRUE
+30,Apakah order bisa selesai lebih cepat?,"Ada. Estimasi 3–7 hari, dengan syarat & ketentuan yang harus disepakati dengan admin.","Ada. Estimasi 3–7 hari, dengan syarat & ketentuan yang harus disepakati dengan admin.",0.9671,TRUE
+31,Bagaimana proses order di K2 Collection?,Kirim desain atau request Tentukan bahan + warna Admin hitung harga DP (biasanya 50%) Produksi Pelunasan Order dikirim,Kirim desain atau request Tentukan bahan + warna Admin hitung harga DP (biasanya 50%) Produksi Pelunasan Order dikirim,0.9673,TRUE
+32,Apakah pengiriman bisa ke luar kota?,"Bisa, memakai jasa ekspedisi sesuai permintaan.","Bisa, memakai jasa ekspedisi sesuai permintaan.",1.0,TRUE
+33,"Apakah bisa pesan ukuran campuran (S, M, L, XL)?","Bisa, bebas mix ukuran sesuai kebutuhan.","Bisa, bebas mix ukuran sesuai kebutuhan.",1.0,TRUE
+34,Apa bedanya Cotton Combed 30s dan 24s?,"30s lebih tipis, lebih halus, dan lebih adem, sedangkan 24s sedikit lebih tebal dan lebih kuat.","30s lebih tipis, lebih halus, dan lebih adem, sedangkan 24s sedikit lebih tebal dan lebih kuat.",0.991,TRUE
+35,Jenis bahan apa saja yang tersedia?,"Kami menyediakan berbagai macam bahan, seperti Cotton Combed (20s, 24s, 30s), Cotton Carded, Lacoste CVC/PE (untuk Polo), American Drill/Japan Drill (untuk Kemeja/Jaket), dan Fleece/Baby Terry (untuk Hoodie). Silakan konsultasikan kebutuhan Anda.","Kami menyediakan berbagai macam bahan, seperti Cotton Combed (20s, 24s, 30s), Cotton Carded, Lacoste CVC/PE (untuk Polo), American Drill/Japan Drill (untuk Kemeja/Jaket), dan Fleece/Baby Terry (untuk Hoodie). Silakan konsultasikan kebutuhan Anda.",0.953,TRUE
+36,Dimana alamat K2 Collection?,"RT 1B RW 1 Doudo, Panceng, Gresik.","RT 1B RW 1 Doudo, Panceng, Gresik.",0.9956,TRUE
+37,Berapa harga baju muslimah,"Harga kaos muslimah mulai Rp70.000 – Rp90.000, sudah termasuk desain + sablon.","Harga kaos muslimah mulai Rp70.000 – Rp90.000, sudah termasuk desain + sablon.",0.9313,TRUE
+38,halo,"Iya, apakah ada ditanyakan?","Iya, apakah ada ditanyakan?",1.0,TRUE
+39,Apakah ada contoh produknya?,"Ada, silahkan buka halaman produk di website kami","Ada, silahkan buka halaman produk di website kami",0.9956,TRUE
+40,Ada warna apa saja kainnya?,"Setiap jenis kain ada katalog warnanya sendiri, silahkan hubungi admin untuk lihat katalog warna kainnya.","Setiap jenis kain ada katalog warnanya sendiri, silahkan hubungi admin untuk lihat katalog warna kainnya.",0.9896,TRUE
